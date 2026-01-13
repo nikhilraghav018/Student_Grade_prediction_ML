@@ -136,7 +136,6 @@ celerybeat.pid
 
 # Environments
 .vscode/
-.artifacts
 .env
 .envrc
 .venv

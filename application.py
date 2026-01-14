@@ -38,4 +38,4 @@ def predict_datapoint():
         return render_template('home.html', results = results[0])
 
 if __name__ == "__main__":
-    app.run(host = "0.0.0.0") # can pass port = 5001 etc.. to the arguments      
+    app.run(host = "0.0.0.0", debug = True)       

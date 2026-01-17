@@ -1,4 +1,4 @@
-## Student Performance Predictor: End-to-End ML Pipeline
+## Student Performance Predictor: End-to-End ML Pipeline 
 
 The Student Performance Predictor is a production-grade machine learning application designed to forecast a student's mathematics score based on demographic and academic performance data. Features like gender,race ethnicity,parental level of education,test preparation course,reading score,writing score
 
